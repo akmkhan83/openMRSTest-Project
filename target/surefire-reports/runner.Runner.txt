@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.627 s <<< FAILURE! - in runner.Runner
+medical record system verification.Test Register a patient  Time elapsed: 9.647 s  <<< ERROR!
+java.io.FileNotFoundException: C:\Batch2021-JUNE-SDET\JAVA\workspace\openMRSTest\src\test\java\TestData1\Test.xlsx (The system cannot find the path specified)
+
